@@ -1,4 +1,4 @@
-```python
+
 import discord
 from discord.ext import commands
 from discord import ui, app_commands
